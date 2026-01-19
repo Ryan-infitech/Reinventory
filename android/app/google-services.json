@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189360155161",
+    "project_id": "reinventory-83f47",
+    "storage_bucket": "reinventory-83f47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189360155161:android:be305820c396c31e319888",
+        "android_client_info": {
+          "package_name": "com.example.reinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxH9lrUiYA3RqJDGo1s7kIcg8vhZ0918"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
