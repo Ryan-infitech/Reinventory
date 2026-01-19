@@ -1,7 +1,13 @@
+<div align="right">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ryan-infitech.Reinventory)
+
+</div>
+
 # Reinventory - Aplikasi Inventory Management UMKM
 
 <p align="center">
-  <img src="assets/icons/logo.png" alt="Reinventory Logo" width="200" onerror="this.style.display='none'"/>
+  <img src="assets/images/reinventory.png" alt="Reinventory Logo" width="200" onerror="this.style.display='none'"/>
 </p>
 
 Aplikasi manajemen inventori sederhana dan modern untuk UMKM berbasis Flutter dengan Firebase sebagai backend.
